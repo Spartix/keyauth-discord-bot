@@ -1,0 +1,9 @@
+{
+  "author": "ADN_Spartix#0002",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7"
+  }
+}
